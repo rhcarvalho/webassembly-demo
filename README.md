@@ -2,8 +2,8 @@
 
 Experiment with Go, TinyGo and WebAssembly.
 
-https://github.com/golang/go/wiki/WebAssembly
-https://tinygo.org/webassembly/webassembly/
+- https://github.com/golang/go/wiki/WebAssembly
+- https://tinygo.org/webassembly/webassembly/
 
 ## Building
 
